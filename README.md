@@ -11,7 +11,9 @@
  > *Dev, books & more coffee :)*
 
  Atualmente estou matriculada no 1° ano do curso técnico integrado de Informática no IFRN - Campus Mossoró, tenho algumas experiências em Desenvolvimento Python e busco progredir em JavaScript, HTML e CSS. Trabalho em alguns projetos pessoais e os disponibilizo no perfil como demonstração e forma de incentivar os demais. <br> <br> Acredito que a programação torna-se cada vez mais importante para o progresso da sociedade com o passar dos anos e, muito em breve, será tão essencial quanto os conhecimentos em outras áreas.
-<br>
+ <br>
+ 
+ ##
 
 ### Algumas linguagens e tecnologias que venho utilizando:
 <div style="display: inline_block"><br>
@@ -34,4 +36,3 @@
   <div> 
   <a href="https://www.linkedin.com/in/cl%C3%A1udia-raiane-sousa-de-oliveira-7898a1233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
