@@ -19,8 +19,8 @@
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![Node.JS](https://img.shields.io/badge/-Node.Js-black?logoColor=green&style=flat-square&logo=Node.Js)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logoColor=green&style=flat-square&logo=JavaScript)
- ![HTML](https://img.shields.io/badge/-html-informational)
- ![CSS](https://img.shields.io/badge/-CSS-black?logoColor=green&style=flat-square&logo=CSS)
+ ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+ ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
  
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/DKyjRV7y5AcOswAlBr/giphy.gif"/>
