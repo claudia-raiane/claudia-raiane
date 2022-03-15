@@ -29,5 +29,5 @@
   ##
 <img align="center" alt="GIF" src="https://media.giphy.com/media/DKyjRV7y5AcOswAlBr/giphy.gif"/>
 
-  <div> <strong>Visite meu Linkedin: </strong> <a href="https://www.linkedin.com/in/cl%C3%A1udia-raiane-sousa-de-oliveira-7898a1233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div> <strong>Visite meu Linkedin: </strong> <a href="https://www.linkedin.com/in/cl%C3%A1udia-raiane-sousa-de-oliveira-7898a1233/" target="_blank"><img height="30" width="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
