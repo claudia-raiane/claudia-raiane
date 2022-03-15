@@ -1,9 +1,6 @@
 ### Olá, tudo bem? 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/cl%C3%A1udia-raiane-sousa-de-oliveira-7898a1233/)
-
-
-<img align="left" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
  
  # Cláudia Raiane 
  
@@ -14,22 +11,14 @@
  
  ### Algumas linguagens e tecnologias que venho utilizando:
 
- ![Python](https://img.shields.io/badge/-Python-black?logoColor=green&style=flat-square&logo=Python)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
- ![Node.JS](https://img.shields.io/badge/-Node.Js-black?logoColor=green&style=flat-square&logo=Node.Js)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logoColor=green&style=flat-square&logo=JavaScript)
- ![HTML](https://img.shields.io/badge/-html-informational)
- ![CSS](https://img.shields.io/badge/-CSS-black?logoColor=green&style=flat-square&logo=CSS)
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+ <br>
+ <br>
+<div align="center">
+  <a href="https://github.com/claudia-raiane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudia-raiane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-raiane&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/DKyjRV7y5AcOswAlBr/giphy.gif"/>
-
-
-  
-   
- <b> :chart_with_upwards_trend: Estatísticas</b>:
- <br>
- <br>
-
