@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, tudo bem? 👋
 
-<!--
-**claudia-raiane/claudia-raiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/cl%C3%A1udia-raiane-sousa-de-oliveira-7898a1233/)
 
-Here are some ideas to get you started:
+<img align="center" alt="GIF" src="https://media.giphy.com/media/DKyjRV7y5AcOswAlBr/giphy.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+   
+ <b> :chart_with_upwards_trend: Estatísticas</b>:
+ <br>
+ <br>
+ ![Cláudia](https://github-readme-stats.vercel.app/api?username=claudia-raiane&show_icons=true&theme=mer
