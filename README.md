@@ -1,4 +1,4 @@
-### Olá, tudo bem? 👋
+# Olá, tudo bem? 👋
 
 <div align="left">
   <a href="https://github.com/claudia-raiane">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-raiane&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- # Cláudia Raiane 
+ ## Cláudia Raiane 
  
  > *Dev, books & more coffee :)*
 
