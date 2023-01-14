@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/claudia-raiane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-raiane&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-raiane&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudia-raiane&show_icons=true&theme=dracula)"/>
 </div>
  
