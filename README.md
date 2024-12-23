@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&section=header&text=Developer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 # Olá, tudo bem? 👋
 
  <div align="center">
@@ -10,7 +12,7 @@
  
  > *Dev, books & more coffee :)*
 
- Atualmente estou matriculada no 4° ano do curso técnico integrado de Informática no IFRN - Campus Mossoró, tenho algumas experiências em desenvolvimento seja utilizando Python, JavaScript, HTML, CSS e/ou PHP. Trabalho em alguns projetos pessoais e os disponibilizo no perfil como demonstração e forma de incentivar os demais. <br> <br> Acredito que a programação torna-se cada vez mais importante para o progresso da sociedade com o passar dos anos e, muito em breve, será considerada por muitos (além da comunidade desenvolvedora) tão essencial quanto os conhecimentos em outras áreas.
+ Atualmente estou matriculada no 4° ano do curso técnico integrado de Informática no IFRN - Campus Mossoró, tenho experiências em desenvolvimento seja utilizando Python, JavaScript, HTML, CSS e/ou PHP. Trabalho em alguns projetos pessoais e os disponibilizo no perfil como demonstração e forma de incentivar os demais. <br> <br> Acredito que a programação torna-se cada vez mais importante para o progresso da sociedade com o passar dos anos e, muito em breve, será considerada por muitos (além da comunidade desenvolvedora) tão essencial quanto os conhecimentos em outras áreas.
  <br>
  
  ##
@@ -27,6 +29,7 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
   
   ##
