@@ -2,10 +2,12 @@
 
 # Olá, tudo bem? 👋
 
- <div align="center">
-  <a href="https://github.com/claudia-raiane">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=claudia-raiane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-raiane&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center" width="100%">
+<div align="center">  
+ </div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudia-raiane&show_icons=true&count_private=true&hide_border=true&title_color=000080&icon_color=000080&text_color=c9d1d9&bg_color=0d1117" alt="Cláudia Raiane" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudia-raiane&layout=compact&hide_border=true&title_color=000080&text_color=ffffff&bg_color=0d1117" />
 </div>
  
  > *Dev, books & more coffee :)*
@@ -15,23 +17,44 @@
  
  ##
 
-### Algumas linguagens e tecnologias que venho utilizando e aprendendo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-</div>
+### Tecnologias para Front-end:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+
+### Tecnologias para Back-end:
+
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![Livewire](https://img.shields.io/badge/-livewire-0D1117?style=for-the-badge&logo=livewire&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+### Aprendendo sobre:
+![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-0D1117.svg?style=for-the-badge&logo=vercel&labelColor=0D1117)
+
+### Outras tecnologias:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TypesScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+
+### Ferramentas que eu utilizo:
+
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
+![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
+
   
   ##
-<img align="center" alt="GIF" src="https://media.giphy.com/media/DKyjRV7y5AcOswAlBr/giphy.gif"/>
+<div align="center">
+<br><p align="centre"><b>Total Profile Visits</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{claudia-raiane}/count.svg" /></p> 
+<br>
+</div>
 
 ### Visite meu Linkedin:
 
